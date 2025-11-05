@@ -1467,3 +1467,11 @@
 {"timestamp":"2025-11-05T21:48:10.998602Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2025-11-05T21:48:41.372534Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2025-11-05T21:49:11.706335Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T21:49:42.070310Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T21:50:12.480068Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T21:50:42.829138Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T21:51:13.173053Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T21:51:43.480084Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T21:52:13.809396Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T21:52:44.172179Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T21:53:14.527289Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ice_hockey_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
